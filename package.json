@@ -1,0 +1,15 @@
+{
+  "name": "hermes-facebook",
+  "version": "0.0.1",
+  "description": "Hermes for Facebook.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Zachary Liu",
+  "license": "MIT",
+  "dependencies": {
+    "facebook-chat-api": "zacharyliu/facebook-chat-api",
+    "restler": "^3.2.2"
+  }
+}
